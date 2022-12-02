@@ -1,2 +1,53 @@
+body {
+    background: #1f1f1f;
+}
+.navbar {
+    background: black;
+    padding-left: 300px;
+    padding-right: 300px;
+}
 
-/* Your CSS Code here. */
+.navbar-brand {
+    color: rgb(0, 0, 0);
+    background: #e2b616;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+.search-form {
+    width: 800px;
+}
+
+.movie-header {
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.info {
+    font-size: 15px;
+    color: azure;
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+.trailer {
+    display: inline;
+    padding-top: 30px;
+    padding-left:530px ;
+}
+
+.img-container {
+    display: inline;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.movie-poster {
+}
